@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ameer Shehadey
-- 👀 I’m interested in Data Analysis, Programming & the tech industry
+- 👋 Hi, I’m Ameer Shehadey, 24 years old and this is my GitHub!
+- 👀 Recently I've been learning and diving into the data analysis field; learning new skills and mastering new tools
 - 🌱 I’m currently learning and mastering Tableau and improving my data analysis skills
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/ameer-shehadey-aa4a0a241/) If you wish to contact me!
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/ameer-shehadey-aa4a0a241) If you wish to contact me!
 
 # My Data Analysis Projects
 ### Practicum x Masterschool - Real data, end-to-end projects
