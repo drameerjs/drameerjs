@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ameer Shehadey
+- 👀 I’m interested in Data Analysis, Programming & the tech industry
+- 🌱 I’m currently learning and mastering Tableau and improving my data analysis skills
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/ameer-shehadey-aa4a0a241/) If you wish to contact me!
